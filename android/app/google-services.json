@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1028112129001",
+    "firebase_url": "https://moneycontrol-e91eb.firebaseio.com",
+    "project_id": "moneycontrol-e91eb",
+    "storage_bucket": "moneycontrol-e91eb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1028112129001:android:c559f4712e4f3c0a",
+        "android_client_info": {
+          "package_name": "com.sequeira.moneycentral"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1028112129001-3tpbrmub03fakcgn7qg7nmcdmukkr3b4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sequeira.moneycentral",
+            "certificate_hash": "5737278ff62b5226ce5ab654c9b66ddc421f33b8"
+          }
+        },
+        {
+          "client_id": "1028112129001-mg1t2sbectfimo1itsha6mp3q9obvpmv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOZwZW0ENWNw76gQI1-9gz2PQf4RnVDzM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1028112129001-mg1t2sbectfimo1itsha6mp3q9obvpmv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
